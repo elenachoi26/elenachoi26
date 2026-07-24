@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Youbeen's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-  
-### Intro:raised_hands:
-
 ## Languages and Tools:
 - Python (numpy, pandas, scipy)
 - Machine Learning & Econometrics: scikit-learn, XGBoost, LightGBM, Statsmodels
